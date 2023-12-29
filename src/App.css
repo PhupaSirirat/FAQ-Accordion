@@ -7,6 +7,10 @@
   width: 100vw;
 }
 
+.bg-img-mobile {
+  display: none;
+}
+
 .container {
   position: absolute;
   left: 0;
@@ -75,6 +79,10 @@ p {
 @media screen and (max-width: 768px) {
   .bg-img {
     display: none;
+  }
+  .bg-img-mobile {
+    width: 100vw;
+    display: block;
   }
   .container {
     top: 5rem;
