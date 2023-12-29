@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/PhupaSirirat/FAQ-Accordion)
+- Live Site URL: [Deploy](https://phupasirirat.github.io/FAQ-Accordion/)
 
 ## My process
 
